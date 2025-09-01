@@ -143,7 +143,7 @@ table#uni-be-sport-table td {
 							<tr>
 								<td>${sportVO.sportId}</td>
 								<td>${sportVO.sportName}</td>
-								<td>${sportVO.sportDescription}</td>f
+								<td>${sportVO.sportDescription}</td>
 								<td>${sportVO.sportMets}</td>
 								<td>${sportVO.sportEstimatedCalories}</td>
 								<td>${sportVO.sportLevel == "junior"? "初階" : sportVO.sportLevel == "senior"? "中階" : "高階" }</td>
