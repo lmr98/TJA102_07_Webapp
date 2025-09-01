@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<Context>
+	
+	<!-- 備用 -->
+	<!-- 
+    <Resource name="jdbc/TJA102_G3_TibaFit_SJver" type="javax.sql.DataSource"
+        url="jdbc:mysql://localhost:3306/tja102ggg?serverTimezone=Asia/Taipei"
+        username="root"
+        password="123456"
+        driverClassName="com.mysql.cj.jdbc.Driver"
+        maxTotal="8"
+      	maxIdle="4"
+      	maxWaitMillis="5000"
+    />
+     -->
+
+</Context>
